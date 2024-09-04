@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kasirku</string>
+    <string-array name="name_app">
+        <item>pria</item>
+        <item>wanita</item>
+    </string-array>
+</resources>

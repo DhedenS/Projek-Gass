@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        EditText editTextMessage = findViewById(R.id.editUN);
+        EditText editTextMessage = findViewById(R.id.editNL);
         EditText editTextMessage2 = findViewById(R.id.editEmail);
         EditText editTextMessage3 = findViewById(R.id.editalamat);
         Spinner spinnerOptions = findViewById(R.id.gender);
